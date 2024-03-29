@@ -26,7 +26,13 @@ jobs:
       run: |
         user1='${{ secrets.USER1 }}'
         pwd1='${{ secrets.PWD1 }}'
+        user2='${{ secrets.USER2 }}'
+        pwd2='${{ secrets.PWD2 }}'
+        user3='${{ secrets.USER3 }}'
+        pwd3='${{ secrets.PWD3 }}'
         python3 helper1.py --action 'reserve' --userid $user1 --password $pwd1
+        python3 helper2.py --action 'reserve' --userid $user2 --password $pwd2
+        python3 helper3.py --action 'reserve' --userid $user3 --password $pwd3
     - name: Commit
       run: |
         git config --global user.email founder.yu@foxmail.com
