@@ -107,15 +107,15 @@ class CSULibrary(object):
         headers = {
             'Referer': 'http://libzw.csu.edu.cn/home/web/seat/area/1'
         }
-        data = {
-            'access_token': access_token,
-            'userid': self.userid,
-            'segment': self.getBookTimeId(i)[1],
-            'type': '1',
-            'operateChannel': '2'
-        }
         while 1:
             for i in range(0, len(self.seatid)):
+                data = {
+                    'access_token': access_token,
+                    'userid': self.userid,
+                    'segment': self.getBookTimeId(i)[1],
+                    'type': '1',
+                    'operateChannel': '2'
+                }
                 url = "http://libzw.csu.edu.cn/api.php/spaces/" + \
                     str(self.seatid[i])+"/book"
                 response = self.client.post(url, headers=headers, data=data)
