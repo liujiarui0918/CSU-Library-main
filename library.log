@@ -91,3 +91,4 @@
 2024-03-29 21:55:29,777	INFO	预约失败，最新一天的系统开始预约时间为：06:00
 2024-03-29 21:55:29,777	ERROR	An error occurred: 预约失败，最新一天的系统开始预约时间为：06:00
 2024-03-30 01:07:03,515	ERROR	An error occurred: local variable 'i' referenced before assignment
+2024-03-30 01:09:39,240	ERROR	An error occurred: local variable 'i' referenced before assignment
