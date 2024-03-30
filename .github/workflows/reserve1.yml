@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '55 21 * * *'
+    - cron: '50 21 * * *'
 
 jobs:
   reserve:
@@ -32,7 +32,7 @@ jobs:
         git config --global user.email founder.yu@foxmail.com
         git config --global user.name founder-yu
         git add .
-        git commit -m "Update library.log" -a
+        git commit -m "Update library1.log" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
