@@ -173,7 +173,7 @@ if __name__ == "__main__":
     helper = CSULibrary(args.userid, args.password)
     # 添加异常处理
     try:
-        if args.action == 'reserve':
+        if args.action == 'reserve4':
             helper.reserve()
     except Exception as e:
         # 如果需要将异常信息记录在日志中，可以使用下面的代码
