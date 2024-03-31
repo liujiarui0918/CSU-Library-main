@@ -26,7 +26,7 @@ jobs:
       run: |
         user2='${{ secrets.USER2 }}'
         pwd2='${{ secrets.PWD2 }}'
-        python3 helper2.py --action 'reserve' --userid $user2 --password $pwd2
+        python3 helper2.py --action 'reserve2' --userid $user2 --password $pwd2
     - name: Commit
       run: |
         git config --global user.email founder.yu@foxmail.com
