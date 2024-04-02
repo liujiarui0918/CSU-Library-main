@@ -108,7 +108,6 @@ class CSULibrary(object):
             'Referer': 'http://libzw.csu.edu.cn/home/web/seat/area/1'
         }
         while 1:
-            f=0
             for i in range(0, len(self.seatid)):
                 data = {
                     'access_token': access_token,
@@ -121,13 +120,10 @@ class CSULibrary(object):
                     str(self.seatid[i])+"/book"
                 response = self.client.post(url, headers=headers, data=data)
                 if response.json()['status'] == 1:
-                    f=1
                     break
-            if f == 1:
+            if response.json()['status'] == 1:
                 break
         logging.info(response.json()['msg'])
-        if response.json()['status'] == 0:
-            raise Exception(response.json()['msg'])
 
     def getCurrentUse(self):
         '''
