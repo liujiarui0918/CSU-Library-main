@@ -122,7 +122,7 @@ class CSULibrary(object):
                 if response.json()['status'] == 1:
                     break
             if response.json()['status'] == 1:
-                    break
+                break
         logging.info(response.json()['msg'])
         if response.json()['status'] == 0:
             raise Exception(response.json()['msg'])
