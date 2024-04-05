@@ -119,6 +119,7 @@ class CSULibrary(object):
                 url = "http://libzw.csu.edu.cn/api.php/spaces/" + \
                     str(self.seatid[i])+"/book"
                 response = self.client.post(url, headers=headers, data=data)
+                response.encoding='utf-8-sig'
                 if response.json()['status'] == 1:
                     break
             if response.json()['status'] == 1:
