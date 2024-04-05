@@ -47,7 +47,7 @@ def getAesString(data, key, iv):
     cipher_text = cipher.encrypt(data)
 
     # 返回的是base64格式的密文
-    cipher_b64 = str(base64.b64encode(cipher_text), encoding='utf-8')
+    cipher_b64 = str(base64.b64encode(cipher_text), encoding='utf-8-sig')
     return cipher_b64
 
 
