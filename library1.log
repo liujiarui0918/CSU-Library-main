@@ -10,3 +10,4 @@
 2024-04-05 21:51:19,952	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-04-06 21:56:54,948	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-04-07 00:42:53,397	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
+2024-04-07 22:00:01,592	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
