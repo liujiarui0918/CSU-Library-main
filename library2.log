@@ -9,3 +9,4 @@
 2024-04-10 22:13:10,360	INFO	预约成功
 2024-04-11 22:11:09,781	INFO	预约成功
 2024-04-13 22:10:35,269	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
+2024-04-15 22:50:01,932	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
