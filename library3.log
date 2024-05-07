@@ -22,3 +22,4 @@
 2024-04-29 22:10:22,945	INFO	预约成功
 2024-05-05 22:07:57,558	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
 2024-05-06 22:09:44,224	ERROR	An error occurred: 'access_token'
+2024-05-07 12:09:25,050	ERROR	An error occurred: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
