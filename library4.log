@@ -16,3 +16,4 @@
 2024-04-27 22:10:27,051	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
 2024-05-05 22:00:01,186	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
 2024-05-06 21:59:27,843	ERROR	An error occurred: 'access_token'
+2024-05-07 11:50:02,203	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
