@@ -18,3 +18,4 @@
 2024-05-06 21:59:27,843	ERROR	An error occurred: 'access_token'
 2024-05-07 11:50:02,203	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-05-07 22:00:01,983	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
+2024-05-08 22:00:01,077	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
