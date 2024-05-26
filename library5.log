@@ -6,3 +6,4 @@
 2024-05-22 22:00:01,219	INFO	预约成功
 2024-05-24 22:00:00,958	INFO	预约成功
 2024-05-25 22:00:01,078	INFO	预约成功
+2024-05-26 21:57:22,039	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
