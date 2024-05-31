@@ -1,0 +1,15 @@
+{
+  "name": "csu-library",
+  "version": "1.0.0",
+  "description": "CSU Library project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "your_name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
