@@ -63,3 +63,4 @@
 2024-06-07 22:50:00,532	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-06-08 23:50:02,961	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-06-13 22:32:44,640	ERROR	An error occurred: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2024-06-15 22:50:02,697	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
