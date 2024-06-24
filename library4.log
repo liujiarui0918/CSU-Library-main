@@ -49,3 +49,4 @@
 2024-06-19 22:50:03,132	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-06-21 22:00:01,397	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
 2024-06-23 22:00:01,246	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
+2024-06-24 22:00:01,422	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
