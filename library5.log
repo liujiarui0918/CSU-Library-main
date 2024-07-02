@@ -10,3 +10,4 @@
 2024-05-29 22:00:00,632	INFO	预约成功
 2024-06-25 21:59:23,897	ERROR	An error occurred: HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f9515e8d360>, 'Connection to libzw.csu.edu.cn timed out. (connect timeout=None)'))
 2024-06-27 22:50:01,101	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2024-07-02 22:00:00,284	INFO	预约成功
