@@ -17,3 +17,4 @@
 2024-07-11 22:00:01,346	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
 2024-07-14 21:57:25,902	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-07-17 21:57:16,981	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2024-07-19 21:57:20,944	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
