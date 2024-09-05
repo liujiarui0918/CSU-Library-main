@@ -87,3 +87,4 @@
 2024-09-03 22:50:00,870	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-09-04 22:10:59,901	ERROR	An error occurred: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 2024-09-05 23:43:32,237	ERROR	An error occurred: 'access_token'
+2024-09-05 23:46:03,138	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
