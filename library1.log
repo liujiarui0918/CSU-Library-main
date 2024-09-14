@@ -96,3 +96,4 @@
 2024-09-11 22:50:03,368	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-09-12 22:50:03,128	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-09-13 22:00:38,631	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
+2024-09-14 22:00:32,183	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
