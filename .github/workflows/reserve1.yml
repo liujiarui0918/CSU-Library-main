@@ -13,26 +13,39 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Install Python
+    - name: Set up Python
       run: |
         sudo apt update && \
-        sudo apt install python3
-      
-    - name: requirements
+        sudo apt install python3 python3-venv
+
+    # 创建虚拟环境并激活
+    - name: Create and activate virtual environment
       run: |
-        pip3 install -r requirements.txt
-        
+        python3 -m venv venv
+        source venv/bin/activate
+
+    # 安装依赖到虚拟环境中
+    - name: Install dependencies
+      run: |
+        venv/bin/pip install --upgrade pip
+        venv/bin/pip install -r requirements.txt
+
+    # 执行预定的任务
     - name: Reserve
       run: |
         user1='${{ secrets.USER1 }}'
         pwd1='${{ secrets.PWD1 }}'
-        python3 helper1.py --action 'reserve1' --userid $user1 --password $pwd1
-    - name: Commit
+        venv/bin/python3 helper1.py --action 'reserve1' --userid $user1 --password $pwd1
+
+    # 提交更改
+    - name: Commit changes
       run: |
         git config --global user.email founder.yu@foxmail.com
         git config --global user.name founder-yu
         git add .
         git commit -m "Update library1.log" -a
+
+    # 推送更改到GitHub
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
