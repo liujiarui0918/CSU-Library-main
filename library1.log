@@ -147,3 +147,4 @@
 2024-10-17 22:00:02,012	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
 2024-10-17 22:50:03,409	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-10-18 22:00:01,207	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
+2024-10-18 22:50:02,261	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
