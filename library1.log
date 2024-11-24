@@ -232,3 +232,4 @@
 2024-11-22 22:00:00,734	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
 2024-11-22 22:50:02,920	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-11-23 22:50:00,459	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2024-11-24 22:50:01,103	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
