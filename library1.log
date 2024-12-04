@@ -251,3 +251,4 @@
 2024-12-02 22:50:03,082	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-12-03 21:52:49,413	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-12-03 22:11:47,685	INFO	预约成功
+2024-12-04 22:00:02,845	INFO	预约成功
