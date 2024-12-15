@@ -271,3 +271,4 @@
 2024-12-12 22:50:01,151	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2024-12-13 22:14:05,331	ERROR	An error occurred: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 2024-12-14 22:50:01,717	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2024-12-15 22:00:01,835	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
