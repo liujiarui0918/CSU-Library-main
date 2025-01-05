@@ -311,3 +311,4 @@
 2025-01-03 22:10:20,496	ERROR	An error occurred: HTTPSConnectionPool(host='ca.csu.edu.cn', port=443): Max retries exceeded with url: /authserver/login?service=http%3A%2F%2Flibzw.csu.edu.cn%2Fcas%2Findex.php%3Fcallback%3Dhttp%253A%252F%252Flibzw.csu.edu.cn%252Fhome%252Fweb%252Ff_second (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f87e33d7410>: Failed to resolve 'ca.csu.edu.cn' ([Errno -5] No address associated with hostname)"))
 2025-01-04 22:00:01,730	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
 2025-01-04 22:50:01,950	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-01-05 22:00:01,845	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
