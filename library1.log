@@ -320,3 +320,4 @@
 2025-01-08 22:50:01,761	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2025-01-09 21:59:44,334	ERROR	An error occurred: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 2025-01-09 22:49:59,292	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-01-10 21:59:56,559	INFO	预约成功
