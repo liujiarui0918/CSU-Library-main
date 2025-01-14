@@ -328,3 +328,4 @@
 2025-01-12 22:28:13,592	ERROR	An error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 2025-01-13 22:00:01,869	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
 2025-01-13 22:50:02,119	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-01-14 21:52:55,908	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
