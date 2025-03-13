@@ -439,3 +439,4 @@
 2025-03-12 21:52:32,099	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2025-03-12 22:10:54,585	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
 2025-03-13 21:52:45,908	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-03-13 22:10:39,423	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
