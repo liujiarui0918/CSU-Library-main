@@ -3,8 +3,8 @@ name: CSU Library Reserve3
 on:
   workflow_dispatch:
 
-  #schedule:
-    #- cron: '56 21 * * *'
+  schedule:
+    - cron: '47,49,51,53,55,57,59 21 * * *'
 
 jobs:
   reserve:
