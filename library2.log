@@ -83,3 +83,4 @@
 2025-10-04 22:00:01,051	INFO	预约成功
 2025-10-05 21:50:00,742	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2025-10-05 21:59:59,647	INFO	预约成功
+2025-10-05 22:49:59,693	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
