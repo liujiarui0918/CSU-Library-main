@@ -128,3 +128,4 @@
 2025-11-13 21:59:59,814	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
 2025-11-14 22:00:07,433	ERROR	An error occurred: ('Connection aborted.', BadStatusLine('-top: 20px;}\r\n'))
 2025-11-16 21:54:13,191	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-11-18 21:54:35,690	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
