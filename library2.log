@@ -131,3 +131,4 @@
 2025-11-18 21:54:35,690	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2025-11-19 22:00:00,432	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
 2025-11-19 22:50:01,359	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-11-23 21:59:51,443	ERROR	An error occurred: ('Connection aborted.', BadStatusLine('-top: 20px;}\r\n'))
