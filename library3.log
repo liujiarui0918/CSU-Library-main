@@ -179,3 +179,4 @@
 2026-01-25 22:50:01,281	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2026-01-26 22:00:01,539	INFO	预约成功
 2026-01-26 22:50:01,362	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-01-27 22:50:01,001	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
