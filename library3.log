@@ -210,3 +210,4 @@
 2026-03-02 22:03:52,222	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
 2026-03-03 22:50:01,994	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2026-03-04 22:50:03,879	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-03-05 22:50:01,829	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
