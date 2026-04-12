@@ -245,3 +245,4 @@
 2026-04-09 22:26:21,180	INFO	预约成功
 2026-04-10 22:21:33,217	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
 2026-04-11 22:03:06,890	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
+2026-04-12 22:49:57,852	ERROR	An error occurred: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
